@@ -1,3 +1,7 @@
+---
+title: Awesome DIY Software
+---
+
 # awesome-diy-software
 
 A curated list of awesome DIY software. Inspired by [awesome-go](https://github.com/avelino/awesome-go) and [this HN post](https://news.ycombinator.com/item?id=16591918).
