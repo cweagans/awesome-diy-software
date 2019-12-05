@@ -83,6 +83,7 @@ There is a separate section, for lisp interpreters
 
 -   [Build a simple database](https://cstack.github.io/db_tutorial/)
 -   [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/implementing-a-key-value-store-part-1-what-are-key-value-stores-and-why-implement-one/)
+-   [Build your own Redis](https://rohitpaulk.com/articles/redis-0)
 
 ## Text Editor
 
