@@ -74,6 +74,7 @@ There is a separate section, for lisp interpreters
 
 -   [Build your own 3D renderer](https://avik-das.github.io/build-your-own-raytracer/)
 -   [Ray Tracing in One Weekend](https://www.amazon.com/dp/B01B5AODD8)
+-   [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 
 ## Software renderer
 
@@ -93,6 +94,10 @@ There is a separate section, for lisp interpreters
 
 -   [Implements the basics of the git version control system](http://gitlet.maryrosecook.com/docs/gitlet.html)
 
+## Video Games
+-   [Handmade Hero](https://handmadehero.org/)
+-   [Build a game with Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30)
+
 ## Web Apps: Usage
 
 These are tutorials for learning to use web frameworks:
@@ -100,6 +105,7 @@ These are tutorials for learning to use web frameworks:
 -   [Some useful links for React.js](https://github.com/markerikson/react-redux-links/)
 -   [How to Build Tinder with React Native & Expo](https://www.udemy.com/how-to-build-tinder/)
 -   [Writing a full-featured multi-tenant web app from scratch](https://medium.com/@ashokgelal/writing-a-full-featured-multi-tenant-laravel-app-from-scratch-a0e1a7350d9d)
+-   [Building an online marketplace from scratch](https://www.voucherify.io/blog/building-an-online-marketplace-from-scratch-introduction)
 
 ## Web frameworks: Internals
 
@@ -108,6 +114,7 @@ These tutorials are geared towards building a frontend web framework and can be 
 -   [Build your own React](https://github.com/hexacta/didact)
 -   [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 -   [Build Your Own Angular JS](https://teropa.info/build-your-own-angular/)
+-   [Build your own Sinatra](https://getgood.at/build-your-own/sinatra)
 
 ## Web Programming
 
@@ -117,14 +124,11 @@ These tutorials are geared towards building a frontend web framework and can be 
 
 ## Unsorted
 
-PRs to organize these resources are very welcome!
+## Series
 
--   [Handmade Hero](https://handmadehero.org/)
--   [Build your own Sinatra](https://getgood.at/build-your-own/sinatra)
+These are groups of shorter tutorials that cover more topics in a similar
+
 -   [Destroy All Software's "From Scratch" series](https://www.destroyallsoftware.com/screencasts/catalog)
--   [Building an online marketplace from scratch](https://www.voucherify.io/blog/building-an-online-marketplace-from-scratch-introduction)
--   [Build a game with Lua and LÖVE](https://github.com/SSYGEN/blog/issues/30)
--   [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
 
 ## Other similar lists
 
